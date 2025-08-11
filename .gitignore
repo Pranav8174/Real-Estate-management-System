@@ -25,3 +25,10 @@ dist-ssr
 
 .config/
 !.env
+
+MONGODB_URI=mongodb+srv://pranavtripathi8174:Pranav123@cluster0.rruw624.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+JWT_SECRET=dsfghjnknkm
+PING_MESSAGE=Real Estate App API is running!
+Razorpay_key_id=rzp_test_MgZsxGDWZ2gI81
+Razorpay_key_secret=0Y4yAKFm1tE0LTXueildnR0V
+
